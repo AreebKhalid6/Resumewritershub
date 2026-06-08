@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Resume Writer Hub
+
+A [Next.js](https://nextjs.org) website for building professional resumes.
 
 ## Getting Started
 
