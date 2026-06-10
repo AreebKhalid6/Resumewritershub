@@ -1,15 +1,11 @@
+import { Footer } from "@/components/footer/Footer";
+import { Header } from "@/components/header/Header";
 import { siteConfig } from "@/config/site";
 
 export default function Home() {
   return (
-    <div className="flex flex-1 flex-col">
-      <header className="border-b border-zinc-200 bg-white px-6 py-4 dark:border-zinc-800 dark:bg-zinc-950">
-        <div className="mx-auto flex max-w-5xl items-center justify-between">
-          <span className="text-lg font-semibold tracking-tight text-zinc-900 dark:text-zinc-50">
-            {siteConfig.name}
-          </span>
-        </div>
-      </header>
+    <div className="flex flex-1 flex-col overflow-x-auto">
+      <Header />
 
       <main className="flex flex-1 flex-col items-center justify-center px-6 py-24">
         <div className="mx-auto max-w-2xl text-center">
@@ -36,12 +32,7 @@ export default function Home() {
         </div>
       </main>
 
-      <footer className="border-t border-zinc-200 px-6 py-6 dark:border-zinc-800">
-        <p className="mx-auto max-w-5xl text-center text-sm text-zinc-500">
-          &copy; {new Date().getFullYear()} {siteConfig.name}. All rights
-          reserved.
-        </p>
-      </footer>
+      <Footer />
     </div>
   );
 }
