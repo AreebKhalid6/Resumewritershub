@@ -1,0 +1,2602 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg17265"
+   width="817.02722"
+style="background:#fff;"
+   height="1061.1412"
+   viewBox="0 0 817.02722 1061.1412"
+   sodipodi:docname="Resume Template Alpha Page_Gazelle.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs17269">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17283-2">
+      <path
+         d="M 0,0 H 459 V 546 H 0 Z"
+         id="path17281-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17293-1">
+      <path
+         d="M 0,0 H 459 V 503.94922 H 0 Z"
+         id="path17291-7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17305-6">
+      <path
+         d="M 0,0 H 459 V 546 H 0 Z"
+         id="path17303-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17329-0">
+      <path
+         d="M 17,43 H 162 V 65 H 17 Z"
+         id="path17327-4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17343-5">
+      <path
+         d="m 17,104 h 48 v 22 H 17 Z"
+         id="path17341-1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17357-2">
+      <path
+         d="m 17,182 h 92 v 22 H 17 Z"
+         id="path17355-3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17371-7">
+      <path
+         d="m 17,410 h 72 v 22 H 17 Z"
+         id="path17369-2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17391-4">
+      <path
+         d="M 17,-3 H 125 V 30 H 17 Z"
+         id="path17389-1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17405-8">
+      <path
+         d="M 121,-3 H 241 V 30 H 121 Z"
+         id="path17403-2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17419-6">
+      <path
+         d="M 17,23 H 67 V 41 H 17 Z"
+         id="path17417-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17433-3">
+      <path
+         d="M 55,23 H 72 V 41 H 55 Z"
+         id="path17431-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17447-4">
+      <path
+         d="M 62,23 H 84 V 41 H 62 Z"
+         id="path17445-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17461-6">
+      <path
+         d="m 74,23 h 35 V 41 H 74 Z"
+         id="path17459-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17475-1">
+      <path
+         d="m 99,23 h 15 V 41 H 99 Z"
+         id="path17473-3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17489-2">
+      <path
+         d="m 105,23 h 63 v 18 h -63 z"
+         id="path17487-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17503-9">
+      <path
+         d="m 158,23 h 16 v 18 h -16 z"
+         id="path17501-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17517-0">
+      <path
+         d="m 164,23 h 96 v 18 h -96 z"
+         id="path17515-3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17531-9">
+      <path
+         d="M 17,61 H 427 V 80 H 17 Z"
+         id="path17529-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17545-3">
+      <path
+         d="M 17,72 H 421 V 91 H 17 Z"
+         id="path17543-1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17559-1">
+      <path
+         d="m 17,83 h 256 v 19 H 17 Z"
+         id="path17557-2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17573-6">
+      <path
+         d="m 34,122 h 103 v 19 H 34 Z"
+         id="path17571-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17591-1">
+      <path
+         d="m 218,122 h 89 v 19 h -89 z"
+         id="path17589-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17609-0">
+      <path
+         d="m 34,135 h 102 v 19 H 34 Z"
+         id="path17607-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17627-1">
+      <path
+         d="m 218,135 h 60 v 19 h -60 z"
+         id="path17625-7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17645-3">
+      <path
+         d="m 34,148 h 71 v 19 H 34 Z"
+         id="path17643-8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17663-7">
+      <path
+         d="m 218,148 h 73 v 19 h -73 z"
+         id="path17661-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17681-3">
+      <path
+         d="m 34,160 h 96 v 19 H 34 Z"
+         id="path17679-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17699-9">
+      <path
+         d="m 218,160 h 89 v 19 h -89 z"
+         id="path17697-1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17717-4">
+      <path
+         d="m 17,201 h 83 v 19 H 17 Z"
+         id="path17715-1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17731-4">
+      <path
+         d="m 88,201 h 19 v 19 H 88 Z"
+         id="path17729-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17749-1">
+      <path
+         d="m 97,201 h 50 v 19 H 97 Z"
+         id="path17747-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17763-2">
+      <path
+         d="m 17,212 h 81 v 19 H 17 Z"
+         id="path17761-4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17777-0">
+      <path
+         d="m 86,212 h 19 v 19 H 86 Z"
+         id="path17775-4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17791-3">
+      <path
+         d="m 95,212 h 114 v 19 H 95 Z"
+         id="path17789-1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17805-7">
+      <path
+         d="m 197,212 h 19 v 19 h -19 z"
+         id="path17803-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17819-4">
+      <path
+         d="m 206,212 h 56 v 19 h -56 z"
+         id="path17817-7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17833-0">
+      <path
+         d="m 250,212 h 15 v 19 h -15 z"
+         id="path17831-1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17847-1">
+      <path
+         d="m 255,212 h 23 v 19 h -23 z"
+         id="path17845-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17861-2">
+      <path
+         d="m 34,223 h 345 v 19 H 34 Z"
+         id="path17859-2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17879-2">
+      <path
+         d="m 34,234 h 388 v 19 H 34 Z"
+         id="path17877-4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17897-9">
+      <path
+         d="m 34,246 h 252 v 19 H 34 Z"
+         id="path17895-7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17917-7">
+      <path
+         d="m 17,261 h 83 v 19 H 17 Z"
+         id="path17915-2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17933-0">
+      <path
+         d="m 88,261 h 19 v 19 H 88 Z"
+         id="path17931-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17957-0">
+      <path
+         d="m 97,261 h 72 v 19 H 97 Z"
+         id="path17955-7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17973-1">
+      <path
+         d="m 17,273 h 81 v 19 H 17 Z"
+         id="path17971-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17989-0">
+      <path
+         d="m 86,273 h 19 v 19 H 86 Z"
+         id="path17987-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18005-2">
+      <path
+         d="m 95,273 h 120 v 19 H 95 Z"
+         id="path18003-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18021-6">
+      <path
+         d="m 203,273 h 20 v 19 h -20 z"
+         id="path18019-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18037-2">
+      <path
+         d="m 213,273 h 55 v 19 h -55 z"
+         id="path18035-8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18053-4">
+      <path
+         d="m 256,273 h 16 v 19 h -16 z"
+         id="path18051-4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18069-8">
+      <path
+         d="m 262,273 h 23 v 19 h -23 z"
+         id="path18067-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18085-1">
+      <path
+         d="m 34,284 h 351 v 19 H 34 Z"
+         id="path18083-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18105-1">
+      <path
+         d="m 34,295 h 377 v 19 H 34 Z"
+         id="path18103-1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18125-1">
+      <path
+         d="m 34,306 h 398 v 19 H 34 Z"
+         id="path18123-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18141-1">
+      <path
+         d="m 34,318 h 66 v 19 H 34 Z"
+         id="path18139-7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18161-0">
+      <path
+         d="m 17,333 h 83 v 19 H 17 Z"
+         id="path18159-8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18177-5">
+      <path
+         d="m 88,333 h 19 v 19 H 88 Z"
+         id="path18175-3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18201-7">
+      <path
+         d="m 97,333 h 72 v 19 H 97 Z"
+         id="path18199-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18217-6">
+      <path
+         d="m 17,345 h 75 v 19 H 17 Z"
+         id="path18215-3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18233-1">
+      <path
+         d="m 80,345 h 19 v 19 H 80 Z"
+         id="path18231-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18249-8">
+      <path
+         d="m 89,345 h 99 v 19 H 89 Z"
+         id="path18247-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18265-9">
+      <path
+         d="m 177,345 h 19 v 19 h -19 z"
+         id="path18263-2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18281-4">
+      <path
+         d="m 186,345 h 50 v 19 h -50 z"
+         id="path18279-3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18297-3">
+      <path
+         d="m 224,345 h 15 v 19 h -15 z"
+         id="path18295-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18313-0">
+      <path
+         d="m 229,345 h 23 v 19 h -23 z"
+         id="path18311-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18329-5">
+      <path
+         d="m 34,356 h 407 v 19 H 34 Z"
+         id="path18327-4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18345-4">
+      <path
+         d="m 34,367 h 87 v 19 H 34 Z"
+         id="path18343-3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18365-8">
+      <path
+         d="m 34,378 h 302 v 19 H 34 Z"
+         id="path18363-2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18385-2">
+      <path
+         d="m 34,390 h 321 v 19 H 34 Z"
+         id="path18383-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18405-4">
+      <path
+         d="m 17,428 h 32 v 19 H 17 Z"
+         id="path18403-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18421-0">
+      <path
+         d="m 17,439 h 30 v 19 H 17 Z"
+         id="path18419-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18437-8">
+      <path
+         d="m 35,439 h 17 v 19 H 35 Z"
+         id="path18435-1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18453-7">
+      <path
+         d="m 42,439 h 84 v 19 H 42 Z"
+         id="path18451-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18469-7">
+      <path
+         d="m 17,451 h 134 v 19 H 17 Z"
+         id="path18467-1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18485-4">
+      <path
+         d="m 139,451 h 16 v 19 h -16 z"
+         id="path18483-8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18501-1">
+      <path
+         d="m 145,451 h 67 v 19 h -67 z"
+         id="path18499-8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18517-5">
+      <path
+         d="m 200,451 h 16 v 19 h -16 z"
+         id="path18515-3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18533-1">
+      <path
+         d="m 206,451 h 23 v 19 h -23 z"
+         id="path18531-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18549-3">
+      <path
+         d="m 17,466 h 32 v 19 H 17 Z"
+         id="path18547-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18565-1">
+      <path
+         d="m 17,478 h 91 v 19 H 17 Z"
+         id="path18563-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18581-4">
+      <path
+         d="m 96,478 h 16 v 19 H 96 Z"
+         id="path18579-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18597-0">
+      <path
+         d="m 102,478 h 43 v 19 h -43 z"
+         id="path18595-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18613-0">
+      <path
+         d="m 17,489 h 134 v 19 H 17 Z"
+         id="path18611-3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18629-2">
+      <path
+         d="m 139,489 h 16 v 19 h -16 z"
+         id="path18627-8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18645-2">
+      <path
+         d="m 145,489 h 67 v 19 h -67 z"
+         id="path18643-4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18661-8">
+      <path
+         d="m 200,489 h 16 v 19 h -16 z"
+         id="path18659-3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18677-5">
+      <path
+         d="m 206,489 h 23 v 19 h -23 z"
+         id="path18675-0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview17267"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false" />
+  <g
+     id="g17273"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,1.0282376,1056)">
+    <rect
+       style="fill:#ffffff;stroke-width:0.75"
+       id="rect18687"
+       width="612.31549"
+       height="795.85596"
+       x="-0.77117819"
+       y="-792"
+       transform="scale(1,-1)" />
+    <g
+       id="g17275"
+       transform="matrix(1.33333,0,0,1.33333,7.7265e-4,24.967137)">
+      <g
+         id="g17277">
+        <g
+           id="g17279"
+           clip-path="url(#clipPath17283-2)">
+          <g
+             id="g17285"
+             transform="matrix(1,0,0,-1,0,546)">
+            <g
+               id="g17287">
+              <g
+                 id="g17289"
+                 clip-path="url(#clipPath17293-1)">
+                <g
+                   id="g17295">
+                  <path
+                     d="M 0,0 H 459 V 503.94922 H 0 Z"
+                     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path17297" />
+                </g>
+              </g>
+            </g>
+            <g
+               id="g17299">
+              <g
+                 id="g17301"
+                 clip-path="url(#clipPath17305-6)">
+                <g
+                   id="g17307">
+                  <path
+                     d="M 180,61.5 H 23"
+                     style="fill:none;stroke:#0e9fc1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+                     id="path17309" />
+                </g>
+                <g
+                   id="g17311">
+                  <path
+                     d="M 180,122.5 H 23"
+                     style="fill:none;stroke:#0e9fc1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+                     id="path17313" />
+                </g>
+                <g
+                   id="g17315">
+                  <path
+                     d="M 180,201.5 H 23"
+                     style="fill:none;stroke:#0e9fc1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+                     id="path17317" />
+                </g>
+                <g
+                   id="g17319">
+                  <path
+                     d="M 180,429.5 H 23"
+                     style="fill:none;stroke:#0e9fc1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+                     id="path17321" />
+                </g>
+                <g
+                   id="g17323">
+                  <g
+                     id="g17325"
+                     clip-path="url(#clipPath17329-0)">
+                    <g
+                       id="g17331">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(22.5,58.075)"
+                         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#0e9fc1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17335"><tspan
+                           x="0 6.02 12.97 20.83 26.57 32.880001 39.700001 46.529999 50.720001 58.580002 66.059998 72.879997 78.440002 81.940002 88.760002 96.07 104.48 112.9 119.72 126.66"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17333">PROFESSIONAL SUMMARY</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17337">
+                  <g
+                     id="g17339"
+                     clip-path="url(#clipPath17343-5)">
+                    <g
+                       id="g17345">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(22.5,119.075)"
+                         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#0e9fc1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17349"><tspan
+                           x="0 6.8400002 13.76 17.969999 23.540001 29.1"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17347">SKILLS</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17351">
+                  <g
+                     id="g17353"
+                     clip-path="url(#clipPath17357-2)">
+                    <g
+                       id="g17359">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(22.5,197.825)"
+                         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#0e9fc1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17363"><tspan
+                           x="0 9.8599997 17.700001 24.620001 31.51 35 42.48 46.650002 53.450001 59.59 67.43 74.349998"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17361">WORK HISTORY</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17365">
+                  <g
+                     id="g17367"
+                     clip-path="url(#clipPath17371-7)">
+                    <g
+                       id="g17373">
+                      <g
+                         id="g17375">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(22.5,425.32501)"
+                           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#0e9fc1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text17379"><tspan
+                             x="0 6.3299999 14.04 21.35 28.34 34.59 40.75 44.959999 52.84"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan17377">EDUCATION</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17381">
+                  <path
+                     d="M 180,25.5 H 23"
+                     style="fill:none;stroke:#0e9fc1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+                     id="path17383" />
+                </g>
+                <g
+                   id="g17385">
+                  <g
+                     id="g17387"
+                     clip-path="url(#clipPath17391-4)">
+                    <g
+                       id="g17393">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(22.5,21.3)"
+                         style="font-variant:normal;font-weight:normal;font-size:21px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#0e9fc1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17397"><tspan
+                           x="0 17.702999 26.523001 41.202 56.973 71.316002 84.609001"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17395">MICHAEL</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17399">
+                  <g
+                     id="g17401"
+                     clip-path="url(#clipPath17405-8)">
+                    <g
+                       id="g17407">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(126.175,21.3)"
+                         style="font-variant:normal;font-weight:normal;font-size:21px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#0e9fc1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17411"><tspan
+                           x="0 20.768999 29.610001 41.285999 52.983002 61.824001 76.167 93.870003"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17409">WILLIAMS</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17413">
+                  <g
+                     id="g17415"
+                     clip-path="url(#clipPath17419-6)">
+                    <g
+                       id="g17421">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(22.5,35.025)"
+                         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17425"><tspan
+                           x="0 6.9229999 8.8479996 10.773 12.698 14.623 18.83 25.641001 29.288 33.536999"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17423">Williamson</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17427">
+                  <g
+                     id="g17429"
+                     clip-path="url(#clipPath17433-3)">
+                    <g
+                       id="g17435">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(62.9265,35.025)"
+                         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17439"><tspan
+                           x="0 2.5480001"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17437">, </tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17441">
+                  <g
+                     id="g17443"
+                     clip-path="url(#clipPath17447-4)">
+                    <g
+                       id="g17449">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(67.9375,35.025)"
+                         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17453"><tspan
+                           x="0 5.2360001"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17451">NY</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17455">
+                  <g
+                     id="g17457"
+                     clip-path="url(#clipPath17461-6)">
+                    <g
+                       id="g17463">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(79.95,35.025)"
+                         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17467"><tspan
+                           x="0 4.4520001 8.9040003 13.356 17.801001"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17465">28811</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17469">
+                  <g
+                     id="g17471"
+                     clip-path="url(#clipPath17475-1)">
+                    <g
+                       id="g17477">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(104.6625,35.025)"
+                         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17481"><tspan
+                           x="0"
+                           y="0"
+                           id="tspan17479">|</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17483">
+                  <g
+                     id="g17485"
+                     clip-path="url(#clipPath17489-2)">
+                    <g
+                       id="g17491">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(110.3,35.025)"
+                         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17495"><tspan
+                           x="0 4.4520001 8.8970003 13.349 16.527 20.979 25.424 29.875999 33.054001 37.506001 41.951 46.403"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17493">555-555-5555</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17497">
+                  <g
+                     id="g17499"
+                     clip-path="url(#clipPath17503-9)">
+                    <g
+                       id="g17505">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(163.6125,35.025)"
+                         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17509"><tspan
+                           x="0 3.178"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17507">| </tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17511">
+                  <g
+                     id="g17513"
+                     clip-path="url(#clipPath17517-0)">
+                    <g
+                       id="g17519">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(169.25,35.025)"
+                         style="font-variant:normal;font-weight:normal;font-size:7px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17523"><tspan
+                           x="0 4.1719999 8.316 12.523 19.334 23.695 25.620001 29.792 36.799 40.971001 45.108002 49.314999 56.125999 60.493999 62.418999 66.584 69.132004 72.778999 77.028"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17521">example@example.com</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17525">
+                  <g
+                     id="g17527"
+                     clip-path="url(#clipPath17531-9)">
+                    <g
+                       id="g17533">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(22.5,74.325)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17537"><tspan
+                           x="0 6.0159998 8.2080002 13.192 18.256001 20.448 25.176001 27.992001 31.143999 34.551998 39.360001 41.551998 46.608002 51.375999 56.360001 59.167999 62.584 67.344002 72.328003 74.528 78.688004 81.848 86.608002 90.015999 94.783997 99.767998 102.576 107.64 112.696 116.104 120.272 125.032 127.84 134.392 136.584 139.73599 144.8 147.608 151.76801 154.92799 158.336 163.18401 168.248 173.23199 176.03999 180.20799 182.39999 184.60001 189.65601 191.84801 196.01601 200.81599 203.008 205.82401 210.62399 215.608 217.808 220 222.192 225.35201 227.54401 232.304 236.472 239.28 244.08 249.144 254.12801 256.936 261.74399 264.552 268.71201 273.776 277.936 282.104 286.86401 291.02399 295.19199 298 303.056 305.25601 308.064 312.224 317.03201 320.44 325.20001 329.96799 333.37601 336.18399 338.384 343.44 346.24799 351.23999 356.08801 359.23999 364.30399 367.112 374.888 379.65601 384.64001 386.84 391 395.79999"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17535">Highly trained registered nurse with strong clinical abilities and a successful career in both medical</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17539">
+                  <g
+                     id="g17541"
+                     clip-path="url(#clipPath17545-3)">
+                    <g
+                       id="g17547">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(22.5,85.575)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17551"><tspan
+                           x="0 4.8000002 9.8559999 14.84 17.648001 22.632 27.392 32.448002 35.591999 37.784 41.944 45.096001 48.504002 53.231998 56.040001 58.848 63.647999 67.800003 69.991997 72.183998 74.375999 77.528 79.720001 84.480003 88.639999 91.543999 94.351997 99.167999 102.576 107.424 112.224 116.384 119.536 121.728 126.456 131.216 134.01601 138.81599 143.87199 148.856 151.664 156.51199 159.92 164.90401 169.70399 174.752 176.944 181.144 185.90401 190.888 193.696 200.24001 202.43201 205.584 210.64 213.44 218.424 223.224 227.384 231.54401 233.73599 238.584 243.64 248.44 251.584 256.34399 259.15201 263.31201 268.16 275.936 283.71201 285.90399 289.056 296.82401 301.58401 306.64001 309.79199 312.60001 315.75201 320.60001 323.40799 328.392 331.79999 336.64001 341.36801 343.56 348.54401 353.30399 356.112 358.92001 361.112 364.51999 368.672 371.82401 375.45599 378.86401 383.664 386.81601"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17549">and dentistry facilities. Proactive and organized with passionate commitment to provide first-rate</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17553">
+                  <g
+                     id="g17555"
+                     clip-path="url(#clipPath17559-1)">
+                    <g
+                       id="g17561">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(22.5,96.825)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17565"><tspan
+                           x="0 4.9920001 9.7919998 12.952 15.144 19.912001 24.968 28.128 30.936001 35.104 39.903999 43.32 48.080002 50.992001 53.807999 58.256001 60.456001 64.615997 69.384003 74.440002 78.608002 83.367996 88.360001 91.167999 93.367996 98.431999 101.24 106.832 111.632 113.832 116.024 118.84 123.688 127.104 132.16 134.36 139.16 141.976 148.528 150.72 153.88 158.936 161.752 166.51199 171.248 176.23199 181 184.408 187.56799 189.75999 193.92799 198.696 201.504 203.70399 208.75999 211.576 216.632 221.696 225.104 229.272 231.464 236.528 241.51199"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17563">patient care. Licensed in California with expertise in nursing.</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17567">
+                  <g
+                     id="g17569"
+                     clip-path="url(#clipPath17573-6)">
+                    <g
+                       id="g17575">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(39.75,135.325)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17579"><tspan
+                           x="0 6.744 11.504 16.496 18.688 22.856001 25.048 30.112 34.872002 37.688 42.487999 47.543999 52.535999 55.344002 60.335999 65.096001 70.160004 73.311996 75.512001 79.671997 82.832001 86.239998"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17577">Medicine and dentistry</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17581">
+                  <path
+                     d="m 33.94922,130.60156 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path17583" />
+                </g>
+                <g
+                   id="g17585">
+                  <g
+                     id="g17587"
+                     clip-path="url(#clipPath17591-1)">
+                    <g
+                       id="g17593">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(223.375,135.325)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17597"><tspan
+                           x="0 4.448 9.1999998 14 17.4 22.455999 24.639999 29.688 34.672001 37.472 41.632 44.776001 48.183998 52.976002 56.127998 60.880001 65.863998 68.047997 72.800003"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17595">Learning strategies</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17599">
+                  <path
+                     d="m 217.57422,130.60156 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path17601" />
+                </g>
+                <g
+                   id="g17603">
+                  <g
+                     id="g17605"
+                     clip-path="url(#clipPath17609-0)">
+                    <g
+                       id="g17611">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(39.75,148.2)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17615"><tspan
+                           x="0 4.8239999 8.9840002 13.712 17.879999 22.936001 27.784 29.976 34.824001 39.807999 44.535999 47.352001 52.080002 57.136002 61.984001 68.528 70.720001 75.480003 80.463997 85.456001"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17613">Psychology knowledge</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17617">
+                  <path
+                     d="m 33.94922,143.47656 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path17619" />
+                </g>
+                <g
+                   id="g17621">
+                  <g
+                     id="g17623"
+                     clip-path="url(#clipPath17627-1)">
+                    <g
+                       id="g17629">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(223.375,148.2)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17633"><tspan
+                           x="0 4.8080001 9.592 12.728 14.904 19.648001 24.688 27.823999 30.615999 34.759998 39.543999 42.944"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17631">Patient care</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17635">
+                  <path
+                     d="m 217.57422,143.47656 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path17637" />
+                </g>
+                <g
+                   id="g17639">
+                  <g
+                     id="g17641"
+                     clip-path="url(#clipPath17645-3)">
+                    <g
+                       id="g17647">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(39.75,161.075)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17651"><tspan
+                           x="0 5.4640002 10.44 18.208 20.392 25.448 27.632 31.784 34.936001 38.335999 43.127998 46.271999 48.464001 53.304001"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17649">Administration</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17653">
+                  <path
+                     d="m 33.94922,156.35156 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path17655" />
+                </g>
+                <g
+                   id="g17657">
+                  <g
+                     id="g17659"
+                     clip-path="url(#clipPath17663-7)">
+                    <g
+                       id="g17665">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(223.375,161.075)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17669"><tspan
+                           x="0 5.4640002 9.6239996 12.776 14.968 19.695999 24.455999 27.264 29.455999 31.648001 35.807999 38.959999 43.720001 48.776001 50.967999 56.023998"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17667">Active listening</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17671">
+                  <path
+                     d="m 217.57422,156.35156 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path17673" />
+                </g>
+                <g
+                   id="g17675">
+                  <g
+                     id="g17677"
+                     clip-path="url(#clipPath17681-3)">
+                    <g
+                       id="g17683">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(39.75,173.95)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17687"><tspan
+                           x="0 5.0560002 10.032 15.088 17.271999 22.256001 30.024 34.784 39.84 42.984001 45.792 50.632 55.616001 60.368 63.776001 68.568001 71.720001 73.912003 78.751999"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17685">Equipment operation</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17689">
+                  <path
+                     d="m 33.94922,169.22656 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path17691" />
+                </g>
+                <g
+                   id="g17693">
+                  <g
+                     id="g17695"
+                     clip-path="url(#clipPath17699-9)">
+                    <g
+                       id="g17701">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(223.375,173.95)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17705"><tspan
+                           x="0 6.1680002 11.016 15.184 20.247999 28.024 32.792 37.848 41.007999 43.208 48.264 53.256001 56.063999 60.799999 62.992001 66.152 70.959999 73.152"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17703">Documenting vitals</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17707">
+                  <path
+                     d="m 217.57422,169.22656 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path17709" />
+                </g>
+                <g
+                   id="g17711">
+                  <g
+                     id="g17713"
+                     clip-path="url(#clipPath17717-4)">
+                    <g
+                       id="g17719">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(22.5,214.075)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17723"><tspan
+                           x="0 5.4720001 10.536 15.36 20.296 25.360001 32.096001 37.584 42.639999 48.208 51.023998 56.104 61.192001 66.279999"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17721">SEPTEMBER 2022</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17725">
+                  <g
+                     id="g17727"
+                     clip-path="url(#clipPath17731-4)">
+                    <g
+                       id="g17733" />
+                    <g
+                       id="g17735">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(96.675,214.075)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17739"><tspan
+                           x="0"
+                           y="0"
+                           id="tspan17737">‐</tspan></text>
+                    </g>
+                    <g
+                       id="g17741" />
+                  </g>
+                </g>
+                <g
+                   id="g17743">
+                  <g
+                     id="g17745"
+                     clip-path="url(#clipPath17749-1)">
+                    <g
+                       id="g17751">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(102.15,214.075)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17755"><tspan
+                           x="0 5.592 11.44 17 22.568001 27.624001 33.616001"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17753">CURRENT</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17757">
+                  <g
+                     id="g17759"
+                     clip-path="url(#clipPath17763-2)">
+                    <g
+                       id="g17765">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(22.5,225.325)"
+                         style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17769"><tspan
+                           x="0 5.5679998 10.328 15.304 17.496 21.664 24.816 29.576 32.992001 37.751999 42.743999 45.551998 51.543999 56.599998 60.015999 64.176003"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17767">Registered Nurse</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17771">
+                  <g
+                     id="g17773"
+                     clip-path="url(#clipPath17777-0)">
+                    <g
+                       id="g17779">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(94.2535,225.325)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17783"><tspan
+                           x="0 3.6400001"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17781">| </tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17785">
+                  <g
+                     id="g17787"
+                     clip-path="url(#clipPath17791-3)">
+                    <g
+                       id="g17793">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(100.7,225.325)"
+                         style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17797"><tspan
+                           x="0 5.4720001 8.6239996 12.04 16.888 21.952 26.92 29.736 36.472 41.231998 49.023998 53.872002 57.287998 59.48 64.288002 66.480003 69.295998 75.304001 80.160004 84.32 89.311996 91.503998 94.664001 99.463997"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17795">Strong Memorial Hospital</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17799">
+                  <g
+                     id="g17801"
+                     clip-path="url(#clipPath17805-7)">
+                    <g
+                       id="g17807">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(205.1785,225.325)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17811"><tspan
+                           x="0 3.6400001"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17809">| </tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17813">
+                  <g
+                     id="g17815"
+                     clip-path="url(#clipPath17819-4)">
+                    <g
+                       id="g17821">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(211.625,225.325)"
+                         style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17825"><tspan
+                           x="0 7.928 10.12 12.32 14.52 16.712 21.52 29.312 33.472 38.327999"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17823">Williamson</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17827">
+                  <g
+                     id="g17829"
+                     clip-path="url(#clipPath17833-0)">
+                    <g
+                       id="g17835">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(255.0125,225.325)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17839"><tspan
+                           x="0 2.9119999"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17837">, </tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17841">
+                  <g
+                     id="g17843"
+                     clip-path="url(#clipPath17847-1)">
+                    <g
+                       id="g17849">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(260.73749,225.325)"
+                         style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17853"><tspan
+                           x="0 5.9920001"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17851">NY</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17855">
+                  <g
+                     id="g17857"
+                     clip-path="url(#clipPath17861-2)">
+                    <g
+                       id="g17863">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(39.75,236.575)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17867"><tspan
+                           x="0 6.1680002 10.928 18.704 23.552 28.615999 32.776001 35.928001 39.344002 44.144001 47.296001 52.056 56.223999 59.032001 64.015999 68.823997 71.975998 74.167999 78.928001 83.991997 87.143997 89.952003 94.120003 98.919998 102.328 107.088 109.904 112.096 117.152 119.968 124.128 126.32 128.51199 133.576 135.76801 139.92799 144.728 146.92799 149.73599 154.79201 159.856 162.048 165.2 169.36 172.17599 177.024 179.832 182.64799 187.70399 192.552 196.71201 201.70399 203.896 207.048 211.856 214.048 218.20799 221.112 223.92799 228.088 231.24001 234.65601 239.416 244.216 251.992 254.192 256.384 261.44 263.64001 268.69601 273.67999 276.48801 283.04001 287.888 291.29599 296.03201 298.84 303.82401 308.552 311.36801 316.448 321.52802 330.14401"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17865">Demonstrates patient care in clinical units of hospitals, streamlining work by 35%.</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17869">
+                  <path
+                     d="m 33.94922,231.85156 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path17871" />
+                </g>
+                <g
+                   id="g17873">
+                  <g
+                     id="g17875"
+                     clip-path="url(#clipPath17879-2)">
+                    <g
+                       id="g17881">
+                      <text
+                         xml:space="preserve"
+                         transform="translate(39.75,247.825)"
+                         style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         id="text17885"><tspan
+                           x="0 5.4720001 9.632 13.792 18.552 22.719999 26.879999 29.688 33.848 36.048 38.240002 43.296001 45.495998 49.655998 54.456001 56.647999 59.464001 64.223999 69.208 74.272003 78.431999 83.232002 86.384003 88.584 93.431999 98.487999 101.296 106.36 111.12 115.88 120.872 125.032 127.84 132.64 137.70399 142.688 145.496 150.48 155.28799 158.44 160.632 165.39999 170.45599 173.608 176.416 181.224 186.28 191.26401 194.07201 198.24001 200.43201 202.62399 207.392 212.448 215.60001 218.408 221.56799 226.328 231.12801 235.28799 240.35201 242.54401 247.60001 252.592 255.39999 260.45599 265.216 269.98401 274.96799 279.12799 281.936 287 291.16 293.35199 298.41599 303.39999 306.20801 310.936 315.74399 319.15201 321.34399 326.20001 331.25601 335.41599 338.224 346.008 350.76801 353.92001 358.97601 363.832 368.81601 372.97601"
+                           y="0"
+                           sodipodi:role="line"
+                           id="tspan17883">Assess clinical education needs and patient and client teaching needs using various methods.</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17887">
+                  <path
+                     d="m 33.94922,243.10156 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path17889" />
+                </g>
+                <g
+                   id="g17891">
+                  <g
+                     id="g17893"
+                     clip-path="url(#clipPath17897-9)">
+                    <g
+                       id="g17899">
+                      <g
+                         id="g17901">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(39.75,259.07501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text17905"><tspan
+                             x="0 3.368 8.4239998 11.232 16.087999 19.496 27.280001 31.440001 34.248001 39.240002 44.296001 49.023998 53.192001 55.383999 59.543999 61.743999 66.543999 71.599998 75.767998 78.575996 83.424004 86.239998 89.047997 94.031998 98.839996 101.992 104.192 108.952 114.008 117.168 119.312 123.472 126.288 130.448 135.29601 140.36 145.34399 147.536 150.696 152.888 157.73599 162.8 165.608 170.592 175.65601 179.064 181.26401 186.32001 191.304 194.12 198.92 203.976 208.744 212.90401 216.056 221.12 225.88 230.03999 232.24001 237.03999"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan17903">Informs physicians of patient's condition during anesthesia.</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17907">
+                  <path
+                     d="m 33.94922,254.35156 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path17909" />
+                </g>
+                <g
+                   id="g17911">
+                  <g
+                     id="g17913"
+                     clip-path="url(#clipPath17917-7)">
+                    <g
+                       id="g17919">
+                      <g
+                         id="g17921">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(22.5,274.82501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text17925"><tspan
+                             x="0 5.4720001 10.536 15.36 20.296 25.360001 32.096001 37.584 42.639999 48.208 51.023998 56.104 61.192001 66.279999"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan17923">SEPTEMBER 2018</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17927">
+                  <g
+                     id="g17929"
+                     clip-path="url(#clipPath17933-0)">
+                    <g
+                       id="g17935">
+                      <g
+                         id="g17937" />
+                    </g>
+                    <g
+                       id="g17939">
+                      <g
+                         id="g17941">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(96.675,274.82501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text17945"><tspan
+                             x="0"
+                             y="9.9999997e-06"
+                             id="tspan17943">‐</tspan></text>
+                      </g>
+                    </g>
+                    <g
+                       id="g17947">
+                      <g
+                         id="g17949" />
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17951">
+                  <g
+                     id="g17953"
+                     clip-path="url(#clipPath17957-0)">
+                    <g
+                       id="g17959">
+                      <g
+                         id="g17961">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(102.15,274.82501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text17965"><tspan
+                             x="0 3.6240001 9.0799999 15.064 20.903999 26.360001 31.912001 36.824001 39.624001 44.695999 49.768002 54.84"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan17963">JANUARY 2021</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17967">
+                  <g
+                     id="g17969"
+                     clip-path="url(#clipPath17973-1)">
+                    <g
+                       id="g17975">
+                      <g
+                         id="g17977">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(22.5,286.07501)"
+                           style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text17981"><tspan
+                             x="0 5.5679998 10.328 15.304 17.496 21.664 24.816 29.576 32.992001 37.751999 42.743999 45.551998 51.543999 56.599998 60.015999 64.176003"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan17979">Registered Nurse</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17983">
+                  <g
+                     id="g17985"
+                     clip-path="url(#clipPath17989-0)">
+                    <g
+                       id="g17991">
+                      <g
+                         id="g17993">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(94.2535,286.07501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text17997"><tspan
+                             x="0 3.6400001"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan17995">| </tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g17999">
+                  <g
+                     id="g18001"
+                     clip-path="url(#clipPath18005-2)">
+                    <g
+                       id="g18007">
+                      <g
+                         id="g18009">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(100.7,286.07501)"
+                           style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18013"><tspan
+                             x="0 7.928 10.12 12.32 14.512 16.712 21.511999 29.304001 33.464001 36.279999 43.015999 47.784 55.568001 60.424 63.832001 66.031998 70.832001 73.031998 75.839996 81.856003 86.704002 90.872002 95.856003 98.056 101.208 106.016"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18011">Williams Memorial Hospital</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18015">
+                  <g
+                     id="g18017"
+                     clip-path="url(#clipPath18021-6)">
+                    <g
+                       id="g18023">
+                      <g
+                         id="g18025">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(211.72851,286.07501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18029"><tspan
+                             x="0 3.6400001"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18027">| </tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18031">
+                  <g
+                     id="g18033"
+                     clip-path="url(#clipPath18037-2)">
+                    <g
+                       id="g18039">
+                      <g
+                         id="g18041">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(218.175,286.07501)"
+                           style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18045"><tspan
+                             x="0 7.928 10.12 12.32 14.52 16.712 21.52 29.312 33.472 38.327999"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18043">Williamson</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18047">
+                  <g
+                     id="g18049"
+                     clip-path="url(#clipPath18053-4)">
+                    <g
+                       id="g18055">
+                      <g
+                         id="g18057">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(261.5625,286.07501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18061"><tspan
+                             x="0 2.9119999"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18059">, </tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18063">
+                  <g
+                     id="g18065"
+                     clip-path="url(#clipPath18069-8)">
+                    <g
+                       id="g18071">
+                      <g
+                         id="g18073">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(267.28751,286.07501)"
+                           style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18077"><tspan
+                             x="0 5.9920001"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18075">NY</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18079">
+                  <g
+                     id="g18081"
+                     clip-path="url(#clipPath18085-1)">
+                    <g
+                       id="g18087">
+                      <g
+                         id="g18089">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(39.75,297.32501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18093"><tspan
+                             x="0 6.744 11.592 16.584 18.775999 21.584 23.784 28.544001 33.535999 36.344002 41.327999 46.136002 49.287998 51.487999 56.248001 61.304001 64.463997 67.272003 70.431999 73.839996 78.599998 83.407997 86.559998 94.344002 99.103996 104.16 107.32 110.128 115.112 117.312 122.112 127.176 131.336 134.144 138.952 143.112 145.92799 148.12 153.17599 158.168 160.36 164.528 169.328 172.48 177.248 182.23199 185.048 190.032 194.75999 197.576 202.56 207.368 210.52 212.71201 217.48 222.536 225.696 229.856 232 234.81599 238.224 242.992 247.15199 252.136 256.992 262.048 266.216 270.97601 275.13599 277.952 282.75201 287.81601 292.79999 295.608 299.776 304.62399 309.68799 314.672 316.86401 320.02399 322.216 327.07199 332.12799 336.28799"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18091">Modified patient treatment plans as indicated by patients' responses and conditions.</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18095">
+                  <path
+                     d="m 33.94922,292.60156 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path18097" />
+                </g>
+                <g
+                   id="g18099">
+                  <g
+                     id="g18101"
+                     clip-path="url(#clipPath18105-1)">
+                    <g
+                       id="g18107">
+                      <g
+                         id="g18109">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(39.75,308.57501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18113"><tspan
+                             x="0 5.4640002 10.448 18.224001 20.416 25.472 27.664 31.823999 34.976002 39.736 43.144001 47.903999 52.880001 55.688 57.880001 62.728001 66.888 71.688004 73.879997 76.783997 79.592003 81.783997 86.839996 91.896004 96.695999 98.879997 103.68 106.832 109.024 113.872 118.928 121.832 124.64 126.832 131.888 135.03999 138.448 143.248 147.976 152.728 157.784 162.632 167.688 171.84801 174.65601 179.504 182.912 185.72 190.56799 193.72 198.776 203.536 206.944 209.744 214.54401 219.60001 224.36 228.52 231.672 236.728 241.48801 244.64 246.832 250.992 255.15199 257.95999 264.504 266.68799 269.84 274.896 277.70401 282.504 285.31201 290.392 295.47198 300.552 309.16 311.96799 316.12799 321.18399 325.34399 329.496 334.25601 338.41599 342.57599 345.384 348.79199 353.59201 356.74399 361.504"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18111">Administered local, inhalation, intravenous or other anesthetics with a 100% success rate.</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18115">
+                  <path
+                     d="m 33.94922,303.85156 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path18117" />
+                </g>
+                <g
+                   id="g18119">
+                  <g
+                     id="g18121"
+                     clip-path="url(#clipPath18125-1)">
+                    <g
+                       id="g18127">
+                      <g
+                         id="g18129">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(39.75,319.82501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18133"><tspan
+                             x="0 6.1680002 8.3599997 11.776 16.535999 20.704 23.856001 28.624001 33.616001 36.424 41.279999 44.688 47.504002 51.664001 56.728001 61.712002 66.480003 69.888 74.624001 76.816002 80.984001 85.751999 90.736 93.552002 95.744003 100.512 104.672 108.84 112.472 116.64 121.368 123.568 125.76 127.96 132.72 137.71201 140.528 145.584 150.64799 154.056 158.224 160.416 165.48 170.464 173.28 178.12801 181.54401 184.35201 189.416 194.18401 198.98399 201.18401 204.336 209.39999 213.56 218.368 221.776 226.54401 229.35201 234.34399 239.104 242.52 246.688 251.536 256.60001 261.65601 266.42401 268.616 271.52802 274.336 279.14401 284.20001 289.19199 292 297.064 301.86401 306.03201 308.84799 313.008 318.07199 323.056 327.82401 331.23199 335.96799 338.16 342.328 347.08801 352.07999 354.888 359.69601 362.51199 369.056 374.12 378.96799 381.168"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18131">Directed or supervised less-skilled nursing or healthcare personnel, and has supervised a whole</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18135">
+                  <g
+                     id="g18137"
+                     clip-path="url(#clipPath18141-1)">
+                    <g
+                       id="g18143">
+                      <g
+                         id="g18145">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(39.75,331.07501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18149"><tspan
+                             x="0 5.0640001 10.12 12.32 15.472 18.288 23.087999 26.247999 29.056 32.216 34.408001 42.192001 46.952 51.112"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18147">unit at times.</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18151">
+                  <path
+                     d="m 33.94922,315.10156 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path18153" />
+                </g>
+                <g
+                   id="g18155">
+                  <g
+                     id="g18157"
+                     clip-path="url(#clipPath18161-0)">
+                    <g
+                       id="g18163">
+                      <g
+                         id="g18165">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(22.5,346.82501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18169"><tspan
+                             x="0 5.4720001 10.536 15.36 20.296 25.360001 32.096001 37.584 42.639999 48.208 51.023998 56.104 61.192001 66.279999"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18167">SEPTEMBER 2017</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18171">
+                  <g
+                     id="g18173"
+                     clip-path="url(#clipPath18177-5)">
+                    <g
+                       id="g18179">
+                      <g
+                         id="g18181" />
+                    </g>
+                    <g
+                       id="g18183">
+                      <g
+                         id="g18185">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(96.675,346.82501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18189"><tspan
+                             x="0"
+                             y="9.9999997e-06"
+                             id="tspan18187">‐</tspan></text>
+                      </g>
+                    </g>
+                    <g
+                       id="g18191">
+                      <g
+                         id="g18193" />
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18195">
+                  <g
+                     id="g18197"
+                     clip-path="url(#clipPath18201-7)">
+                    <g
+                       id="g18203">
+                      <g
+                         id="g18205">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(102.15,346.82501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18209"><tspan
+                             x="0 3.6240001 9.0799999 15.064 20.903999 26.360001 31.912001 36.824001 39.624001 44.695999 49.768002 54.84"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18207">JANUARY 2018</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18211">
+                  <g
+                     id="g18213"
+                     clip-path="url(#clipPath18217-6)">
+                    <g
+                       id="g18219">
+                      <g
+                         id="g18221">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(22.5,358.07501)"
+                           style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18225"><tspan
+                             x="0 5.9840002 11.048 14.456 18.624001 23.384001 26.200001 31.656 35.824001 39.984001 42.183998 46.344002 49.495998 54.304001 59.360001"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18223">Nurse Assistant</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18227">
+                  <g
+                     id="g18229"
+                     clip-path="url(#clipPath18233-1)">
+                    <g
+                       id="g18235">
+                      <g
+                         id="g18237">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(87.8285,358.07501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18241"><tspan
+                             x="0 3.6400001"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18239">| </tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18243">
+                  <g
+                     id="g18245"
+                     clip-path="url(#clipPath18249-8)">
+                    <g
+                       id="g18251">
+                      <g
+                         id="g18253">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(94.275,358.07501)"
+                           style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18257"><tspan
+                             x="0 5.4720001 10.272 14.432 17.848 22.608 27.6 30.408001 36.416 41.183998 45.984001 49.391998 52.551998 55.360001 61.375999 66.223999 70.384003 75.375999 77.568001 80.720001 85.528"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18255">Sacred Heart Hospital</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18259">
+                  <g
+                     id="g18261"
+                     clip-path="url(#clipPath18265-9)">
+                    <g
+                       id="g18267">
+                      <g
+                         id="g18269">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(184.816,358.07501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18273"><tspan
+                             x="0 3.6400001"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18271">| </tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18275">
+                  <g
+                     id="g18277"
+                     clip-path="url(#clipPath18281-4)">
+                    <g
+                       id="g18283">
+                      <g
+                         id="g18285">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(191.2625,358.07501)"
+                           style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18289"><tspan
+                             x="0 5.9920001 10.752 17.304001 20.112 25.040001 29.888 33.304001"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18287">New York</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18291">
+                  <g
+                     id="g18293"
+                     clip-path="url(#clipPath18297-3)">
+                    <g
+                       id="g18299">
+                      <g
+                         id="g18301">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(229.2625,358.07501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18305"><tspan
+                             x="0 2.9119999"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18303">, </tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18307">
+                  <g
+                     id="g18309"
+                     clip-path="url(#clipPath18313-0)">
+                    <g
+                       id="g18315">
+                      <g
+                         id="g18317">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(234.9875,358.07501)"
+                           style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18321"><tspan
+                             x="0 5.9920001"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18319">NY</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18323">
+                  <g
+                     id="g18325"
+                     clip-path="url(#clipPath18329-5)">
+                    <g
+                       id="g18331">
+                      <g
+                         id="g18333">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(39.75,369.32501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18337"><tspan
+                             x="0 5.5840001 10.44 15.496 19.656 24.712 26.912001 30.063999 34.824001 39.816002 42.624001 47.424 52.48 57.472 60.279999 64.440002 69.288002 74.143997 77.552002 82.536003 84.736 89.792 94.592003 97.744003 102.512 107.496 110.304 116.848 119.048 122.2 127.256 130.07201 135.12801 139.888 144.688 146.888 150.03999 155.09599 159.256 164.064 167.472 172.23199 175.048 178.2 182.96001 187.75999 195.54401 198.35201 206.12801 210.888 218.672 223.65601 228.416 231.832 235.992 238.8 241.952 246.808 249.616 254.416 258.57599 262.74399 267.504 271.664 275.82401 278.73599 281.54401 286.52802 288.728 293.52802 298.58401 301.48801 304.30399 306.496 314.272 319.25601 321.45599 326.216 333.992 338.76001 343.81601 346.96799 349.776 354.63199 358.04001 360.84799 365.608 370.34399 375.14401 377.336 382.39999 387.20001 390.35199"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18335">Consulted and coordinated with healthcare team members to assess, plan, implement or evaluate</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18339">
+                  <g
+                     id="g18341"
+                     clip-path="url(#clipPath18345-4)">
+                    <g
+                       id="g18347">
+                      <g
+                         id="g18349">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(39.75,380.57501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18353"><tspan
+                             x="0 4.9840002 9.7919998 12.944 15.144 19.903999 24.959999 28.120001 30.927999 35.096001 39.896 43.304001 48.071999 50.880001 55.872002 58.063999 62.872002 67.928001 72.087997"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18351">patient care plans.</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18355">
+                  <path
+                     d="m 33.94922,364.60156 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path18357" />
+                </g>
+                <g
+                   id="g18359">
+                  <g
+                     id="g18361"
+                     clip-path="url(#clipPath18365-8)">
+                    <g
+                       id="g18367">
+                      <g
+                         id="g18369">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(39.75,391.82501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18373"><tspan
+                             x="0 6.744 11.592 16.648001 18.84 22 26.848 30.256001 35.023998 40.007999 42.816002 47.616001 49.816002 52.007999 54.816002 59.624001 63.784 68.767998 73.528 77.695999 80.848 85.008003 87.816002 92.671997 95.480003 98.288002 103.28 108.08 111.232 113.424 118.192 123.248 126.4 129.20799 133.37601 138.17599 141.584 146.35201 149.16 151.35201 156.408 160.576 162.76801 167.82401 172.808 175.008 180.064 185.048 187.864 192.84801 195.03999 199.8 202.96001 205.76801 210.56799 215.632 220.616 223.424 228.408 233.472 238.2 242.36 244.552 248.72 253.52 255.71201 258.52802 263.328 267.48801 270.64001 272.84 277.56799 279.76001 282.91199 286.90399"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18371">Monitored all aspects of patient care including diet and physical activity.</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18375">
+                  <path
+                     d="m 33.94922,387.10156 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path18377" />
+                </g>
+                <g
+                   id="g18379">
+                  <g
+                     id="g18381"
+                     clip-path="url(#clipPath18385-2)">
+                    <g
+                       id="g18387">
+                      <g
+                         id="g18389">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(39.75,403.07501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18393"><tspan
+                             x="0 6.296 11.28 15.448 20.208 23.615999 28.344 33.104 38.088001 40.903999 45.959999 51.015999 54.424 58.584 63.344002 67.512001 70.32 75.120003 80.176003 85.160004 87.968002 92.704002 94.896004 99.056 101.248 104.4 109.16 114.144 116.96 121.808 126.536 131.29601 134.70399 137.51199 142.60001 147.67999 150.48801 155.472 160.272 163.424 165.62399 170.384 175.44 178.592 182.752 185.56 188.72 193.56799 196.37601 201.136 206.192 210.35201 215.416 218.82401 223.584 226.392 231.37601 234.784 239.64 244.62399 249.384 252.79201 255.60001 260.65601 265.72 269.12799 273.28799 275.48001 280.53601 285.51999 288.336 292.496 297.29599 300.70401 305.46399"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18391">Observed nurses and visited over 50 patients to ensure proper nursing care.</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18395">
+                  <path
+                     d="m 33.94922,398.35156 v 0 c 0.99609,0 1.80078,0.80469 1.80078,1.79688 0,0.99609 -0.80469,1.80078 -1.80078,1.80078 -0.99219,0 -1.80078,-0.80469 -1.80078,-1.80078 0,-0.99219 0.80859,-1.79688 1.80078,-1.79688 z"
+                     style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path18397" />
+                </g>
+                <g
+                   id="g18399">
+                  <g
+                     id="g18401"
+                     clip-path="url(#clipPath18405-4)">
+                    <g
+                       id="g18407">
+                      <g
+                         id="g18409">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(22.5,441.57501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18413"><tspan
+                             x="0 5.0879998 10.176 15.264"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18411">2016</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18415">
+                  <g
+                     id="g18417"
+                     clip-path="url(#clipPath18421-0)">
+                    <g
+                       id="g18423">
+                      <g
+                         id="g18425">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(22.5,452.82501)"
+                           style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18429"><tspan
+                             x="0 6.744 12.216"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18427">MSN</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18431">
+                  <g
+                     id="g18433"
+                     clip-path="url(#clipPath18437-8)">
+                    <g
+                       id="g18439">
+                      <g
+                         id="g18441">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(40.7,452.82501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18445"><tspan
+                             x="0 3.6400001"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18443">: </tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18447">
+                  <g
+                     id="g18449"
+                     clip-path="url(#clipPath18453-7)">
+                    <g
+                       id="g18455">
+                      <g
+                         id="g18457">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(47.15,452.82501)"
+                           style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18461"><tspan
+                             x="0 5.9840002 11.048 14.456 18.624001 23.384001 26.200001 31.024 34.431999 39.240002 43.400002 46.560001 48.751999 51.911999 54.104 58.952 64.015999 68.776001"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18459">Nurse Practitioner</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18463">
+                  <g
+                     id="g18465"
+                     clip-path="url(#clipPath18469-7)">
+                    <g
+                       id="g18471">
+                      <g
+                         id="g18473">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(22.5,464.07501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18477"><tspan
+                             x="0 5.4640002 10.256 15.312 18.112 22.695999 26.104 30.896 35.952 40.104 42.296001 46.448002 50.608002 55.448002 58.248001 63.712002 66.856003 71.655998 74.800003 79.559998 82.360001 88.199997 93.255997 95.440002 100.168 104.92 108.328 112.48 114.672 117.816"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18475">San Francisco State University</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18479">
+                  <g
+                     id="g18481"
+                     clip-path="url(#clipPath18485-4)">
+                    <g
+                       id="g18487">
+                      <g
+                         id="g18489">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(144.3,464.07501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18493"><tspan
+                             x="0 2.9119999"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18491">, </tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18495">
+                  <g
+                     id="g18497"
+                     clip-path="url(#clipPath18501-1)">
+                    <g
+                       id="g18503">
+                      <g
+                         id="g18505">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(150.02499,464.07501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18509"><tspan
+                             x="0 5.4559999 10.256 15.304 18.104 22.688 26.087999 30.879999 35.936001 40.088001 42.271999 46.424 50.576"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18507">San Francisco</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18511">
+                  <g
+                     id="g18513"
+                     clip-path="url(#clipPath18517-5)">
+                    <g
+                       id="g18519">
+                      <g
+                         id="g18521">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(205.33749,464.07501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18525"><tspan
+                             x="0 2.9119999"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18523">, </tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18527">
+                  <g
+                     id="g18529"
+                     clip-path="url(#clipPath18533-1)">
+                    <g
+                       id="g18535">
+                      <g
+                         id="g18537">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(211.0625,464.07501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18541"><tspan
+                             x="0 5.592"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18539">CA</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18543">
+                  <g
+                     id="g18545"
+                     clip-path="url(#clipPath18549-3)">
+                    <g
+                       id="g18551">
+                      <g
+                         id="g18553">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(22.5,479.82501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18557"><tspan
+                             x="0 5.0879998 10.176 15.264"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18555">2013</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18559">
+                  <g
+                     id="g18561"
+                     clip-path="url(#clipPath18565-1)">
+                    <g
+                       id="g18567">
+                      <g
+                         id="g18569">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(22.5,491.07501)"
+                           style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18573"><tspan
+                             x="0 5.4879999 10.288 14.456 19.52 24.280001 26.48 31.327999 34.743999 37.551998 42.408001 45.223999 48.032001 53.504002 57.664001 59.863998 64.624001 69.688004 73.856003"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18571">Bachelor of Science</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18575">
+                  <g
+                     id="g18577"
+                     clip-path="url(#clipPath18581-4)">
+                    <g
+                       id="g18583">
+                      <g
+                         id="g18585">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(101.1125,491.07501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18589"><tspan
+                             x="0 3.6400001"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18587">: </tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18591">
+                  <g
+                     id="g18593"
+                     clip-path="url(#clipPath18597-0)">
+                    <g
+                       id="g18599">
+                      <g
+                         id="g18601">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(107.5625,491.07501)"
+                           style="font-style:italic;font-variant:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana-Italic;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18605"><tspan
+                             x="0 5.9920001 11.048 14.464 18.632 20.832001 25.888"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18603">Nursing</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18607">
+                  <g
+                     id="g18609"
+                     clip-path="url(#clipPath18613-0)">
+                    <g
+                       id="g18615">
+                      <g
+                         id="g18617">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(22.5,502.32501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18621"><tspan
+                             x="0 5.4640002 10.256 15.312 18.112 22.695999 26.104 30.896 35.952 40.104 42.296001 46.448002 50.608002 55.448002 58.248001 63.712002 66.856003 71.655998 74.800003 79.559998 82.360001 88.199997 93.255997 95.440002 100.168 104.92 108.328 112.48 114.672 117.816"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18619">San Francisco State University</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18623">
+                  <g
+                     id="g18625"
+                     clip-path="url(#clipPath18629-2)">
+                    <g
+                       id="g18631">
+                      <g
+                         id="g18633">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(144.3,502.32501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18637"><tspan
+                             x="0 2.9119999"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18635">, </tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18639">
+                  <g
+                     id="g18641"
+                     clip-path="url(#clipPath18645-2)">
+                    <g
+                       id="g18647">
+                      <g
+                         id="g18649">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(150.02499,502.32501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18653"><tspan
+                             x="0 5.4559999 10.256 15.304 18.104 22.688 26.087999 30.879999 35.936001 40.088001 42.271999 46.424 50.576"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18651">San Francisco</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18655">
+                  <g
+                     id="g18657"
+                     clip-path="url(#clipPath18661-8)">
+                    <g
+                       id="g18663">
+                      <g
+                         id="g18665">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(205.33749,502.32501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18669"><tspan
+                             x="0 2.9119999"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18667">, </tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g18671">
+                  <g
+                     id="g18673"
+                     clip-path="url(#clipPath18677-5)">
+                    <g
+                       id="g18679">
+                      <g
+                         id="g18681">
+                        <text
+                           xml:space="preserve"
+                           transform="translate(211.0625,502.32501)"
+                           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="text18685"><tspan
+                             x="0 5.592"
+                             y="9.9999997e-06"
+                             sodipodi:role="line"
+                             id="tspan18683">CA</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

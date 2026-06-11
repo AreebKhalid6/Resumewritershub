@@ -1,8 +1,13 @@
 @import "tailwindcss";
 
+html {
+  scroll-behavior: smooth;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --header-height: 80px;
 }
 
 @theme inline {
@@ -11,15 +16,45 @@
   --font-sans: var(--font-roboto);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+body {
+  background: #eff2f9;
+  color: #1e2532;
+  font-family: var(--font-roboto), Roboto, sans-serif;
+}
+
+button:not(:disabled),
+[role="button"]:not(:disabled) {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+
+@keyframes logo-carousel-scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: var(--font-roboto), Roboto, sans-serif;
+.logo-carousel-track {
+  animation: logo-carousel-scroll 30s linear infinite;
+}
+
+.logo-carousel-track:hover {
+  animation-play-state: paused;
+}
+
+@keyframes fadeSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }

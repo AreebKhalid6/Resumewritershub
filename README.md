@@ -1,4 +1,4 @@
-# Resume Writer Hub
+# Resume Writers Hub
 
 A [Next.js](https://nextjs.org) website for building professional resumes.
 
